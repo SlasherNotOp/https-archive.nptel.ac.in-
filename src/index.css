@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nptl{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.nptl span{
+    padding: 10px 40px;
+    background-color: #3070bf;
+    color:#fff;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.nptl span a{
+    text-decoration: none;
+    color: #fff;
+}
