@@ -1,10 +1,10 @@
-import img1 from "./assets/dbms certificate nptel.jpg"
+import img1 from "./assets/main.pdf"
 
 function Nptl(){
     return(
         <>
             <div className="nptl">
-                <span><a href={img1} download="dbms certificate nptel.jpg">Course Certificate</a></span>
+                <span><a href={img1} download="dbms certificate nptel.pdf">Course Certificate</a></span>
             </div>
         </>
     );
