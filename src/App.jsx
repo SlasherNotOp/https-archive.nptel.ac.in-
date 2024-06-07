@@ -10,7 +10,7 @@ function App() {
     <>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home/>}></Route>
+        <Route path="/" element={<Nptl/>}></Route>
         <Route path="/Ecertificate" element={<Nptl/>}></Route>
       </Routes>
     </BrowserRouter>
